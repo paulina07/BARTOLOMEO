@@ -1,0 +1,39 @@
+
+
+body{
+    background-color:rgb(155, 243, 216);
+    margin-right: 200px;
+    margin-left: 200px ;
+    font-family: Arial;
+    color: rgb(4, 1, 10);
+    background-image: url('../IMG/IMG_20200224_214418.jpg');
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    
+}
+header h1{
+    font-family: Arial;
+    font-size: 50px;
+}
+nav ul{
+    padding: 10px;
+}
+li :hover{
+    background-color: #31baf0;
+}
+nav li{
+    list-style-type: none ;
+    display: inline;
+}
+li a{
+    text-decoration: none;
+}
+section h1{
+    font-size: 16px;
+    background:  #fcf373;
+    color: #999999;
+    
+}
